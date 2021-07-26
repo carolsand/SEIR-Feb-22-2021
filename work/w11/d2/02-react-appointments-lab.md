@@ -6,7 +6,7 @@
 
 You will need to create a new React CodeSandbox project named `react-appointments`.
 
-For this lab, you will be creating an appointment management system that will persist your data using localStorage and the useEffect hook!
+For this lab, you will be creating an appointment management system that will persist your data using localStorage!
 
 ### Local Storage
 
